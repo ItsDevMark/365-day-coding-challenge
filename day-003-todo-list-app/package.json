@@ -1,0 +1,34 @@
+{
+<<<<<<< HEAD
+  "name": "counterapp",
+=======
+  "name": "todo-list-app",
+>>>>>>> 9be0acd (Initialize evironment for my ToDo-List-App)
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "@react-navigation/native": "^7.5.1",
+    "@react-navigation/native-stack": "^7.21.0",
+<<<<<<< HEAD
+    "expo": "~58.0.21",
+=======
+    "expo": "~58.0.22",
+>>>>>>> 9be0acd (Initialize evironment for my ToDo-List-App)
+    "expo-status-bar": "~58.0.4",
+    "react": "19.3.0",
+    "react-native": "0.88.1",
+    "react-native-safe-area-context": "~5.10.1",
+<<<<<<< HEAD
+    "react-native-screens": "~4.30.0"
+=======
+    "react-native-screens": "~4.30.1"
+>>>>>>> 9be0acd (Initialize evironment for my ToDo-List-App)
+  },
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "private": true
+}
